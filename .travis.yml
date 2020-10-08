@@ -1,7 +1,7 @@
 # os yang digunakan
 os:
   - linux
-# bahasa
+# bahasa pemrograman
 language: php
 # distro
 dist: trusty
